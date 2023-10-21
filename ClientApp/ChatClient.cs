@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClientApp
 {
-    public class ChatClient
+    public class ChatClient 
     {
         public static string nickName;
 

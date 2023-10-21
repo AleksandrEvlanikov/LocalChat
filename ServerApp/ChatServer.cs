@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ServerApp
 {
-    public class ChatServer
+    public class ChatServer 
     {
         static public TcpListener server;
         static public List<TcpClient> clients = new List<TcpClient>();

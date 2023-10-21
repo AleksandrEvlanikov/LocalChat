@@ -6,7 +6,7 @@ namespace ServerApp
 {
     public class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             int port = 55555;
             string serverIpAddress = "127.0.0.1";
